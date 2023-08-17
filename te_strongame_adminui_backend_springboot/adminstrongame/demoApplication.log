@@ -1,0 +1,2 @@
+[http-nio-8080-exec-1] ERROR com.tyss.adminstrongame.controller.AuthenticationController  - INVALID_CREDENTIALS
+[http-nio-8080-exec-4] ERROR com.tyss.adminstrongame.controller.AuthenticationController  - INVALID_CREDENTIALS
